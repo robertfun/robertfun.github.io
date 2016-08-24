@@ -15,7 +15,7 @@ timezone: Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://aotu.io
+url: http://robertfun.com
 root: /
 permalink: notes/:year/:month/:day/:title/
 permalink_defaults:
@@ -115,17 +115,16 @@ lunr:
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
   type: git
-  message: Super AOTUMan at {{ now('YYYY-MM-DD HH:mm:ss') }}
+  message: Robertfun at {{ now('YYYY-MM-DD HH:mm:ss') }}
   repo: 
-    github: git@github.com:robertfun/robertfun.github.io.git,master
+    github: https://github.com/robertfun/robertfun.github.io.git,master
 
 # Disqus
 disqus_shortname:
 
 # Analytics
-baidu_analytics: e850b980d029480b092fdd7503c3f8de
 google_analytics:
-cnzz_analytics: 1258539944
+cnzz_analytics: 1260191589
 
 # Social
 twitter: o2circle
@@ -135,7 +134,7 @@ github:
 
 # baidu sitemap
 baidusitemap:
-  url: http://aotu.io/
+  url: http://robertfun.com
 
 # filter_cleanup
 hfc_useref:

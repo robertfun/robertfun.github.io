@@ -34,7 +34,7 @@ highlight_theme: normal
 # user_id must NOT be null when admin_enable is true!
 # you can visit http://dev.duoshuo.com get duoshuo user id.
 duoshuo:
-  shortname: aotu
+  shortname: robertfun
   ua_enable: true
   admin_enable: false
   user_id: 0
@@ -43,3 +43,8 @@ duoshuo:
 # Wechat
 wechat:
   desc: "海海人生，无折腾不为乐。"
+
+#famous word
+famous:
+  desc: "不要努力成为一个成功者，要努力成为一个有价值的人"
+  author: "爱因斯坦"

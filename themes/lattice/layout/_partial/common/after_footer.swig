@@ -28,7 +28,6 @@
 </script>
 {% endif %}
 
-{% include 'baidu_analytics.swig' %}
 {% include 'cnzz_analytics.swig' %}
 
 

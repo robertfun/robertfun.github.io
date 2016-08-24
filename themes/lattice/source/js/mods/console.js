@@ -28,5 +28,5 @@
         }   
 
     };
-    o2console.init();   
+   // o2console.init();   
 })(jQuery, App);// console信息

@@ -5,9 +5,7 @@
                 <li><a href="https://github.com/{{ config.github.user }}/{{ config.github.repo }}"target="_blank"><i class="fa fa-github-alt"></i></a></li>
             </ul>
             <div class="mod-ft-sec mod-ft-copyright">
-                <p>Designed by <a href="http://aotu.io" target="_blank">{{ config.author }}</a> @<a target="_blank" href="http://jdc.jd.com">京东用户体验设计部</a></p>
-                <p>Copyright &copy; {{ moment(Date.now()).year() }}. All Rights Reserved.</p>
-                <p><a href="http://www.miibeian.gov.cn/" target="_blank">粤ICP备15077732号-2</a></p>
+                <p>Thank <a href="https://github.com/mamboer/hexo-theme-lattice" target="_blank">hexo-theme-lattice</a></p>
             </div>
 
             {% if theme.busuanzi %}
