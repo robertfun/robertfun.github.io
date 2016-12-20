@@ -11,9 +11,6 @@
 {% endblock %}
 
 {% block main %}
-  {% if page.type === "join" %}
-      {% include '_partial/index/join.swig' %}
-  {% endif %}
 
 
   {% if page.type === "about" %}

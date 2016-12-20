@@ -144,6 +144,6 @@
 };
 
 
-picWall.init();
+//picWall.init();
 
 })(jQuery);

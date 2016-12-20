@@ -1,33 +1,31 @@
 <div class="mod-container">
-    <div class="picwall" id="J_picWall">
-        <canvas class="picwall-canvas" id="J_picWallCanvas"></canvas>
-    </div>
+    {% include '../index/banner.swig' %}
 
     <div class="grid">
         <div class="about">
             <div class="about-sec">
                 <div class="about-sec-hd">
-                    <h2 class="about-sec-tit">关于凹凸</h2>
+                    <h2 class="about-sec-tit">关于我</h2>
                 </div>
 
                 <div class="about-sec-bd">
-                    <p>罗伯特的实验室(Aotu.io，英文简称O2) 始建于2015年10月，是一个年轻基情的技术团队。</p>
-                    <p>O2面向多终端技术体系，致力于构建沉淀与分享包括但不限于交互、页面制作技巧、前端开发、原生APP开发等方面的专业知识及案例。</p>
+                    <p>萝卜君的实验室是一个分享前沿前端技术的博客</p>
+                    <p>这个实验室是我给自己制定的一个技术写作计划，记录总结一些有趣的前端技术，希望能在和大家分享的过程中一起碰撞出更多有趣的灵感。</p>
                 </div>
             </div> 
 
             <div class="about-sec contact">
                 <div class="about-sec-hd">
-                    <h2 class="about-sec-tit">联系凹凸</h2>
+                    <h2 class="about-sec-tit">联系我</h2>
                 </div>
                 <div class="about-sec-bd">
                     <ul>
-                        <li>
+                        {# <li>
                             <div class="contact-item">
                                 <strong>Wechat</strong>
                                 <img  src="{{ url_for('img/qrcode.jpg') }}" alt="{{ __('site.follow_us') }}"/>
                             </div>
-                        </li>
+                        </li> #}
                         <li>
                             <a href="https://github.com/robertfun" target="_blank" class="contact-item">
                                 <strong>Github</strong>
@@ -35,7 +33,7 @@
                                 github/robertfun
                             </a>
                         </li>
-                        <li>
+                        {# <li>
                             <a href="https://twitter.com/o2circle" target="_blank" class="contact-item">
                                 <strong>Twitter</strong> 
                                 <i class="fa fa-twitter"></i>
@@ -48,7 +46,7 @@
                                 <i class="fa fa-envelope"></i> 
                                 aotu{AT}jd.com
                             </a>
-                        </li>
+                        </li> #}
                     </ul> 
                 </div>
             </div> 

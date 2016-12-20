@@ -6,7 +6,7 @@ tags:
   - Git
   - Fork
 author:
-  nick: 罗伯特的实验室
+  nick: 萝卜君的实验室
   github_name: robertfun
 
 ---
