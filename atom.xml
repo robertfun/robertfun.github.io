@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>robertfun.com</title>
+  <subtitle>罗伯特的趣味课</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://robertfun.com/"/>
+  <updated>2018-02-24T01:31:34.000Z</updated>
+  <id>http://robertfun.com/</id>
+  
+  <author>
+    <name>罗伯特的趣味课</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>罗伯特的趣味课博客发布</title>
+    <link href="http://robertfun.com/notes/2016/08/24/robertfun-blog-start/"/>
+    <id>http://robertfun.com/notes/2016/08/24/robertfun-blog-start/</id>
+    <published>2016-08-24T03:20:00.000Z</published>
+    <updated>2018-02-24T01:31:34.000Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="前沿"><a href="#前沿" class="headerlink" title="前沿"></a>前沿</h2><p>一直想写博客，却由于种种原因搁置了，其中两个重要的原因，一是担心自己写的不好被人吐槽，二是找不到写作的主题。</p>
+<p>最近读了篇文章，描述的是人不应该固守着自己的安全区，为了脆弱的安全感，而放弃进步的机会是很可怕的。</p>
+<p>其实自己写文章可以总结提升自己，如果能因此帮助别人提升，固然更好，如果写的不好被人批评，那也是进步的动力。</p>
+<p>写作主题确实不好找，目前就暂定为与前端技术以及个人平时感触相关的主题。</p>
+<h2 id="前端技术的一些感悟"><a href="#前端技术的一些感悟" class="headerlink" title="前端技术的一些感悟"></a>前端技术的一些感悟</h2><p>前端技术发展变革速度很快，各种各样的框架类库不停涌现，让人眼花缭乱，选择学习哪些技术栈时，主要看这些技术是否有团队长期稳定维护，社区是否非常活跃，使用者是否众多。当然没有一个框架类库是可以一直流行的，但是在很长一段时间选择正确的框架类库，能让我们节省很多开发时间。</p>
+<p>看准趋势:前后端分离已经成为趋势，主流的SPA框架angualrJs，reactJs，vueJs也在相互竞争，angualrJs全家桶；reactJs虚拟dom系能优异，vueJs上手快，轻量简洁。可以根据个人喜好先选择一种，如果以后想换其它的，也是很快的，毕竟SPA框架很多思想是想通的，了解框架的特性，很快可以上手。NodeJs，React Native的出现让前端可以全栈了，过去前端技术想开发移动app大部分使用hybird混合模式，但是性能始终无法达到原生应用的水平。React Native又给前端打开了另一扇窗，用reactJs可以写网页应用也可以写原生应用，那么从全栈角度看，reactJs就成了一个不错的选择。</p>
+<p>基础永远是最重要的，不过技术如何变革发展，框架类库如何层出不穷，前端语言基础，思考、解决问题的方法，学习能力，这些永远是最重要的，也决定了一个优秀技术人员的核心竞争力。</p>
+<h2 id="迈出第一步"><a href="#迈出第一步" class="headerlink" title="迈出第一步"></a>迈出第一步</h2><p>接下来的时间，先写一篇reacJs的简单教程吧，先迈出第一步😊</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;前沿&quot;&gt;&lt;a href=&quot;#前沿&quot; class=&quot;headerlink&quot; title=&quot;前沿&quot;&gt;&lt;/a&gt;前沿&lt;/h2&gt;&lt;p&gt;一直想写博客，却由于种种原因搁置了，其中两个重要的原因，一是担心自己写的不好被人吐槽，二是找不到写作的主题。&lt;/p&gt;
+&lt;p&gt;最近读了篇文章，
+    
+    </summary>
+    
+      <category term="个人提升" scheme="http://robertfun.com/cates/%E4%B8%AA%E4%BA%BA%E6%8F%90%E5%8D%87/"/>
+    
+    
+      <category term="个人提升" scheme="http://robertfun.com/tags/%E4%B8%AA%E4%BA%BA%E6%8F%90%E5%8D%87/"/>
+    
+  </entry>
+  
+</feed>
